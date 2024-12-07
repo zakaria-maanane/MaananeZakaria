@@ -1,13 +1,14 @@
-# 🤖📊 **Zakaria Maanane Développeur junior  passionée d'ia et data **  
+Bievnvenue sur mon Github
+# 🤖📊 Zakaria Maanane Développeur junior  passionée d'ia et data  🤖📊
 
 > _Un projet conçu par un développeur passionné d'IA et de data, pour explorer, apprendre et innover._  
 
 ---
 
-## 🚀 **À propos**  
+##  **À propos**  
 Bienvenue dans mon Github , je suis Maanane Zakaria alternant a la Grande Ecole du numerique : La Plateforme à Marseille !  
 Ce projet est un espace où je combine ma passion pour l'intelligence artificielle et l'analyse de données avec des idées cool et des algorithmes puissants.  
-✨ **Objectif** : Créer des solutions pratiques tout en continuant à apprendre chaque jour.  
+ **Objectif** : Créer des solutions pratiques tout en continuant à apprendre chaque jour.  
 
 ---
 
@@ -24,5 +25,5 @@ Ce projet est un espace où je combine ma passion pour l'intelligence artificiel
 
 ## 📫 **Contact**  
 
-- GitHub : [ton-username](https://github.com/MaananeZakaria)  
-- LinkedIn : [Ton Nom](https://www.linkedin.com/in/zakaria-zak-6b453b340/)  
+- GitHub : [MaananeZakaria](https://github.com/MaananeZakaria)  
+- LinkedIn : [Zakaria Zak](https://www.linkedin.com/in/zakaria-zak-6b453b340/)  
