@@ -1,4 +1,4 @@
-Bievnvenue sur mon Github
+Bienvenue sur mon Github
 # 🤖📊 Zakaria Maanane Développeur junior  passionée d'ia et data  🤖📊
 
 > _Un projet conçu par un développeur passionné d'IA et de data, pour explorer, apprendre et innover._  
