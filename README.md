@@ -12,12 +12,13 @@ Ce projet est un espace où je combine ma passion pour l'intelligence artificiel
 
 ---
 
-## 🛠️ **Compétances **  
-[![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=white)](https://github.com)
+ ## 🛠️ Compétances   
+[![PYTHON](https://img.shields.io/badge/-PYTHON-000?&logo=PYTHON&logoColor=777BB4)](https://www.python.com)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?&logo=Linux&logoColor=black)](https://www.linux.org)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=white)](https://github.com)
 
 
 
